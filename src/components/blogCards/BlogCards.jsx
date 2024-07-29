@@ -94,6 +94,9 @@ const blogCardsData = [
       "So you’ve decided to go solar - congratulations! You’re doing your part for the environment and saving money in the long run. But now that the panels are up and running, do you actually know how to properly maintain them? There are some key terms and concepts you’ll want to understand to keep your system performing at its best for decades to come.",
     buttonText: "Read More",
   },
+  {
+    
+  }
 ];
 const BlogCards = () => {
   return (
