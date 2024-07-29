@@ -95,7 +95,13 @@ const blogCardsData = [
     buttonText: "Read More",
   },
   {
-    
+    name: "Save-Monthly-Electric-Bill-with-Solar-Panels",
+    image: blogimg1,
+    heading: "Save Monthly Electric Bill with Solar Panels: A Comprehensive Guide",
+    date: "May 12, 2024",
+    content:
+      "Reducing monthly electric bills is a concern for many households and businesses. With the increasing cost of electricity and the growing awareness of environmental issues, more people are turning to renewable energy solutions.",
+    buttonText: "Read More",
   }
 ];
 const BlogCards = () => {
