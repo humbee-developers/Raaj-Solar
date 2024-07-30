@@ -102,7 +102,36 @@ const blogCardsData = [
     content:
       "Reducing monthly electric bills is a concern for many households and businesses. With the increasing cost of electricity and the growing awareness of environmental issues, more people are turning to renewable energy solutions.",
     buttonText: "Read More",
+  },
+  {
+    name: "Maximizing-Property-Value-with-RAAJ-Solar",
+    image: blogimg5,
+    heading: "Maximizing Property Value with RAAJ Solar: The Impact of Solar Panels on Real Estate",
+    date: "April 12, 2024",
+    content:
+      "In recent years, the adoption of solar energy has surged as homeowners and businesses seek sustainable and cost-effective energy solutions.",
+    buttonText: "R  ead More",
+  },
+  {
+    name: "Exploring-Solar-Panel-Warranty-Fundamentals",
+    image: blogimg6,
+    heading: "Exploring Solar Panel Warranty Fundamentals: A Comprehensive Guide",
+    date: "June 12, 2024",
+    content:
+      "In recent years, the adoption of solar energy has surged as homeowners and businesses seek sustainable and cost-effective energy solutions.",
+    buttonText: "Read More",
+  },
+  // Blogs 13
+  {
+    name: "Exploring-Solar-Panel-Warranty-Fundamentals",
+    image: blogimg6,
+    heading: "Raaj Solar Panels: 7 Tips for Maximizing Your Solar Panel Efficiency",
+    date: "February 12, 2024",
+    content:
+      "Are you looking to get the most out of your solar panel investment? As a property owner with solar panels, you've already taken a significant step towards energy independence and sustainability. However, to truly maximize the benefits of your solar energy system, it's crucial to optimize its efficiency. ",
+    buttonText: "Read More",
   }
+
 ];
 const BlogCards = () => {
   return (

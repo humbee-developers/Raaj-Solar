@@ -368,7 +368,9 @@ const BlogSingleItem = ({
   TwelthHeading1_14,
   TwelthContent1_14,
   TwelthHeading1_15,
-
+  blueElevenHeadingContent7_1,
+  blueElevenHeadingContent7_2,
+  blueElevenHeadingContent7_3,
   companies,
   constuctionWorldImage,
   constuctionWorldText1,
@@ -1761,6 +1763,364 @@ const BlogSingleItem = ({
                       <span>{ConclusionTitle}</span>
                       {Conclusioncontent}
                       <p className="elementor-element-text">{Conclusioncontent1}</p>
+                    </p>
+                </>
+              )}
+
+              {/*   Blogs Eleven */}
+              {id === 10 && (
+                <>
+                  <p className="elementor-element-border">
+                    <h2 id="second-header" className="elementor-element-title">
+                      {blueSecondHeadingNew1}
+                    </h2>
+                  </p>
+                  <p className="elementor-element-text">
+                    <span> {blueSecondHeadingNewContent2}</span>
+                  </p>
+                  <p className="elementor-element-text">
+                    {blueSecondHeadingNewContent1}
+                  </p>
+                  <p className="elementor-element-text">
+                    <span> {blueSecondHeadingNewContent4}</span>
+                  </p>
+                  <p className="elementor-element-text">
+                    {blueSecondHeadingNewContent3}
+                  </p>
+                </>
+              )}
+               {id === 10 && (
+                <>
+                  <p>
+                    <p className="elementor-element-border">
+                      <h2 id="tenth-header" className="elementor-element-title">
+                        {blueElevenHeading}
+                      </h2>
+                    </p>
+                    <p className="elementor-element-text">
+                      <span> {blueElevenHeadingContent1}</span>
+                    </p>
+                    <p className="elementor-element-text">
+                      {blueElevenHeadingContent2}
+                    </p>
+                    <p className="elementor-element-text">
+                      <span> {blueElevenHeadingContent3Heading}</span>
+                    </p>
+                    <p className="elementor-element-text">
+                      {blueElevenHeadingContent3}
+                    </p>
+                    <p className="elementor-element-text">
+                      <span> {blueElevenHeadingContent4Heading}</span>
+                    </p>
+                    <p className="elementor-element-text">
+                      {blueElevenHeadingContent4}
+                    </p>
+                    <p className="elementor-element-text">
+                     <span> {blueElevenHeadingContent5}</span>
+                    </p>
+                    <p className="elementor-element-text">
+                      <span> {blueElevenHeadingContent7Heading}</span>
+                    </p>
+                    <p className="elementor-element-text">
+                      {blueElevenHeadingContent7}
+                    </p>               
+                  </p>
+                </>
+              )}
+               {id === 10 && (
+                <>
+                  <p className="elementor-element-border">
+                    <h2 id="third-header" className="elementor-element-title">
+                      {blueSecondHeading}
+                    </h2>
+                  </p>
+                  <p className="elementor-element-text">
+                    <span>{blueSecondHeadingContent1}</span>
+                  </p>
+                  <p className="elementor-element-text">
+                    {blueSecondHeadingContent2}
+                  </p>
+                  <p className="elementor-element-text">
+                    <span>{blueSecondHeadingContent3}</span>
+                  </p>
+                  <p className="elementor-element-text">
+                    {blueSecondHeadingContent4}
+                  </p>
+                </>
+              )}
+               {id === 10 && (
+                <>
+                 <p className="elementor-element-border">
+                    <h2 id="third-header" className="elementor-element-title">
+                      {blueNinethHeading}
+                    </h2>
+                  </p>
+                  <p className="elementor-element-text">
+                    <span>{blueNinethHeadingContent1}</span>
+                  </p>
+                  <p className="elementor-element-text">
+                    {blueNinethHeadingContent3}
+                  </p>
+                  <p className="elementor-element-text">
+                   <span>{blueNinethHeadingContent2_1}</span> 
+                  </p>
+                  <p className="elementor-element-text">
+                    {blueNinethHeadingContent2_2}
+                  </p>
+                </>
+              )}
+                 {id === 10 && (
+                <>
+                  <p className="elementor-element-text">
+                      <span>{ConclusionTitle}</span>
+                      {Conclusioncontent}
+                    </p>
+                </>
+              )}
+            {/* Blog Twelve */}
+            {id === 11 && (
+                <>
+                  <p className="elementor-element-border">
+                    <h2 id="second-header" className="elementor-element-title">
+                      {blueSecondHeadingNew1}
+                    </h2>
+                  </p>
+                  <p className="elementor-element-text">
+                     {blueSecondHeadingNewContent2}
+                  </p>
+                  <p className="elementor-element-text">
+                   <span> {blueSecondHeadingNewContent1}</span>
+                  </p>
+                  <p className="elementor-element-text">
+                    <span> {blueSecondHeadingNewContent4}</span>
+                  </p>
+                  <p className="elementor-element-text">
+                    {blueSecondHeadingNewContent3}
+                  </p>
+                  <p className="elementor-element-text">
+                      <span> {blueElevenHeadingContent1}</span>
+                    </p>
+                    <p className="elementor-element-text">
+                      {blueElevenHeadingContent2}
+                    </p>
+                </>
+            )}
+             {id === 11 && (
+                <>
+                  <p>
+                    <p className="elementor-element-border">
+                      <h2 id="tenth-header" className="elementor-element-title">
+                        {blueElevenHeading}
+                      </h2>
+                    </p>
+                    <p className="elementor-element-text">
+                       {blueElevenHeadingContent3Heading}
+                    </p>
+                    <p className="elementor-element-text">
+                      {blueElevenHeadingContent3}
+                    </p>
+                    <p className="elementor-element-text">
+                       {blueElevenHeadingContent4Heading}
+                    </p>
+                    <p className="elementor-element-text">
+                       {blueElevenHeadingContent4}
+                    </p>
+                    <p className="elementor-element-text">
+                     <span> {blueElevenHeadingContent5}</span>
+                    </p>
+                    <p className="elementor-element-text">
+                      {blueElevenHeadingContent7Heading}
+                    </p>
+                    <p className="elementor-element-text">
+                      <span>{blueElevenHeadingContent7}</span>
+                    </p>
+                    <p className="elementor-element-text">
+                      {blueElevenHeadingContent7_1}
+                    </p>
+                    <p className="elementor-element-text">
+                      {blueElevenHeadingContent7_2}
+                    </p>
+                    <p className="elementor-element-text">
+                      {blueElevenHeadingContent7_3}
+                    </p>
+                  </p>
+                </>
+              )}
+                {id === 11 && (
+                <>
+                  <p className="elementor-element-border">
+                    <h2 id="third-header" className="elementor-element-title">
+                      {blueSecondHeading}
+                    </h2>
+                  </p>
+                  <p className="elementor-element-text">
+                    {blueSecondHeadingContent1}
+                  </p>
+                  <p className="elementor-element-text">
+                    <span>{blueSecondHeadingContent2}</span>
+                  </p>
+                  <p className="elementor-element-text">
+                    <span>{blueSecondHeadingContent3}</span>
+                  </p>
+                  <p className="elementor-element-text">
+                    {blueSecondHeadingContent4}
+                  </p>
+                </>
+              )}
+               {id === 11 && (
+                <>
+                  <p className="elementor-element-text">
+                   {blueNinethHeading}
+                  </p>
+                  <p className="elementor-element-text">
+                    {blueNinethHeadingContent1}
+                  </p>
+                  <p className="elementor-element-text">
+                    {blueNinethHeadingContent3}
+                  </p>
+                  <p className="elementor-element-text">
+                    <span>{blueNinethHeadingContent2_1}</span>
+                  </p>
+                  <p className="elementor-element-text">
+                    {blueNinethHeadingContent2_2}
+                  </p>
+                  <ul className="headingBottomList">
+                    <li>
+                    <p className="elementor-element-text">
+                    {blueNinethHeadingContent2_3}
+                  </p>
+                    </li>
+                    <li>
+                    <p className="elementor-element-text">
+                    {blueNinethHeadingContent2_4}
+                  </p>
+                    </li>
+                    <li>
+                    <p className="elementor-element-text">
+                  {TwelthContent1}
+                  </p>
+                    </li>
+                  </ul>
+                  {/*  */}
+                  <p className="elementor-element-text">
+                   <span> {TwelthHeading1_1}</span>
+                  </p>
+                  <p className="elementor-element-text">
+                    {TwelthContent1_1}
+                  </p>
+                  
+                 <ul className="headingBottomList">
+                  <li>
+                  <p className="elementor-element-text">
+                   {TwelthHeading1_2}
+                  </p>
+                  </li>
+                  <li>
+                  <p className="elementor-element-text">
+                    {TwelthContent1_2}
+                  </p>
+                  </li>
+                 </ul>
+                  <p className="elementor-element-text">
+                   <span> {TwelthHeading1_3}</span>
+                  </p>
+                  <p className="elementor-element-text">
+                    {TwelthContent1_3}
+                  </p>
+                  <p className="elementor-element-text">
+                   <span> {TwelthHeading1_4}</span>
+                  </p>
+                  <p className="elementor-element-text">
+                   {TwelthContent1_4}
+                  </p>
+                 <ul className="headingBottomList">
+                  <li>
+                  <p className="elementor-element-text">
+                    {TwelthHeading1_5}
+                  </p>
+                  </li>
+                  <li>
+                  <p className="elementor-element-text">
+                   {TwelthContent1_5}
+                  </p>
+                  </li>
+                  <li>
+                  <p className="elementor-element-text">
+                    {TwelthHeading1_6}
+                  </p>
+                  </li>
+                 </ul>
+                  <p className="elementor-element-text">
+                   <span> {TwelthContent1_6}</span>
+                  </p>
+                  <p className="elementor-element-text">
+                    {TwelthHeading1_7}
+                  </p>
+                 <ul className="headingBottomList">
+                  <li>
+                  <p className="elementor-element-text">
+                   {TwelthContent1_7}
+                  </p>
+                  </li>
+                  <li>
+                  <p className="elementor-element-text">
+                    {TwelthHeading1_8}
+                  </p>
+                  </li>
+                  <li>   
+                  <p className="elementor-element-text">
+                   {TwelthContent1_8}
+                  </p>
+                  </li>
+                 </ul>
+                </>
+              )}
+                 {id === 11 && (
+                <>
+                  <p className="elementor-element-border">
+                    <h2 id="third-header" className="elementor-element-title">
+                      {TwelthHeading1_9}
+                    </h2>
+                  </p>
+                  <p className="elementor-element-text">
+                   {TwelthContent1_9}
+                  </p>
+                  <p className="elementor-element-text">
+                    {TwelthHeading1_10}
+                  </p>
+                  <p className="elementor-element-text">
+                    <span>{TwelthContent1_10}</span>
+                  </p>
+                  <p className="elementor-element-text">
+                    {TwelthHeading1_11}
+                  </p>
+                  <p className="elementor-element-text">
+                    <span>{TwelthContent1_11}</span>
+                  </p>
+                  <p className="elementor-element-text">
+                   <span> {TwelthHeading1_12} </span>
+                  </p>
+                  <p className="elementor-element-text">
+                    {TwelthContent1_12}
+                  </p>
+                  <p className="elementor-element-text">
+                   <span> {TwelthHeading1_13}</span>
+                  </p>
+                  <p className="elementor-element-text">
+                    <span>{TwelthContent1_13}</span>
+                  </p>
+                  <p className="elementor-element-text">
+                    {TwelthHeading1_14}
+                  </p>
+                  <p className="elementor-element-text">
+                    <span>{TwelthContent1_14}</span>
+                  </p>
+                  <p className="elementor-element-text">
+                    {TwelthHeading1_15}
+                  </p>
+                  <p className="elementor-element-text">
+                      <span>{ConclusionTitle}</span>
+                      {Conclusioncontent}
                     </p>
                 </>
               )}
