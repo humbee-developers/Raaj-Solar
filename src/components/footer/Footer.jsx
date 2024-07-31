@@ -62,6 +62,23 @@ const Footer = () => {
                 <Link to={"tel:9925031915"}>+91 99250 31915</Link>
               </div>
             </div>
+            <div className="col3">
+              <h2>Contact</h2>
+
+              <div className="address">
+                Survey No. 69/2, Village : Chandarda, Opp. Madhu Textile,
+                Ahmedabad - Mehsana Highway, Taluka : Kadi, Dist: Mehsana,
+                Gujarat, India
+                {/* 1402, 14th floor, Phoenix, Vijay Cross Rd, Navrangpura,
+                Ahmedabad - 380009{" "}
+                <Link to={"mailto:marketing@raajsolar.com"}>
+                  marketing@raajsolar.com
+                </Link> */}
+              </div>
+              {/* <div className="link">
+                <Link to={"tel:9925031915"}>+91 99250 31915</Link>
+              </div> */}
+            </div>
           </div>
           <div className="copyright">
             <div className="copyright_text">

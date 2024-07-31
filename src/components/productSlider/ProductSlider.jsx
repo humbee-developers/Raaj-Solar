@@ -36,7 +36,7 @@ const ProductSlider = () => {
           loop={true}
           className="mySwiper"
         >
-          <SwiperSlide>
+          {/* <SwiperSlide>
             <div className="productSliderCardItem">
               <div className="card1">
                 <HomePageCommonHeading heading={"Our Product"} />
@@ -44,7 +44,6 @@ const ProductSlider = () => {
                   <div className="info">
                     {"TOPCon"}
                     <br />
-                    {/* {"CRYSTALLINE"} */}
                   </div>
                   <div className="details">
                     {
@@ -66,7 +65,7 @@ const ProductSlider = () => {
                 <img src={img1} alt="none" className="imgg"></img>
               </div>
             </div>
-          </SwiperSlide>
+          </SwiperSlide> */}
           <SwiperSlide>
             <div className="productSliderCardItem">
               <div className="card1">
@@ -90,7 +89,7 @@ const ProductSlider = () => {
                       </span>
                     </Link>
                   </div>
-                  <div className="index">02</div>
+                  <div className="index">01</div>
                 </div>
               </div>
               <div className="card2">
@@ -121,7 +120,7 @@ const ProductSlider = () => {
                       </span>
                     </Link>
                   </div>
-                  <div className="index">03</div>
+                  <div className="index">02</div>
                 </div>
               </div>
               <div className="card2">

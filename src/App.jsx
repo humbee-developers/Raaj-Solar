@@ -20,39 +20,92 @@ import MonoBiFacial from "./pages/products/productsInnerPages/monoBiFacial/MonoB
 import BlogSingle from "./pages/blog/blogSingle/BlogSingle";
 import Download from "./pages/download/Download";
 import ScrollTop from "./components/scrollTop/ScrollTop";
-import LocomotoveScroll from "locomotive-scroll";
+import LocomotiveScroll from "locomotive-scroll";
 import Career from "./pages/career/Career";
+import { useLocation } from "react-router-dom";
 
 function App() {
+  // const [handleScroll, setHandleScroll] = useState(window.innerWidth);
+  // function handleSmoothScroll() {
+  //   setHandleScroll(window.innerWidth);
+  // }
+  // window.addEventListener("resize", handleSmoothScroll);
+  // console.log(handleScroll);
+
+
+  // useEffect(() => {
+  //   if (handleScroll > 991) {
+  //     const scroll = new LocomotoveScroll({
+  //       smooth: true,
+  //     });
+  //   }
+  // });
+
+  // useEffect(() => {
+  //   var prevScrollpos = window.pageXOffset;
+  //   window.onscroll = function () {
+  //     var currentScrollPos = window.pageYOffset;
+  //     if (prevScrollpos > currentScrollPos) {
+  //       document.getElementById("hide-header").style.top = "0";
+  //     } else {
+  //       document.getElementById("hide-header").style.top =
+  //         "-140px"; 
+  //     }
+  //     prevScrollpos = currentScrollPos;
+  //   };
+  // }, [handleScroll]);
   const [handleScroll, setHandleScroll] = useState(window.innerWidth);
-  function handleSmoothScroll() {
+  const location = useLocation(); // To track route changes
+
+  function handleResize() {
     setHandleScroll(window.innerWidth);
   }
-  window.addEventListener("resize", handleSmoothScroll);
-  // const scrollRef = useRef(null);
-  console.log(handleScroll);
+
+  useEffect(() => {
+    window.addEventListener("resize", handleResize);
+
+    return () => {
+      window.removeEventListener("resize", handleResize);
+    };
+  }, []);
 
   useEffect(() => {
     if (handleScroll > 991) {
-      const scroll = new LocomotoveScroll({
+      const scroll = new LocomotiveScroll({
         smooth: true,
       });
+
+      return () => {
+        scroll.destroy();
+      };
     }
-  });
+  }, [handleScroll]);
 
   useEffect(() => {
-    var prevScrollpos = window.pageXOffset;
-    window.onscroll = function () {
-      var currentScrollPos = window.pageYOffset;
+    // Scroll to top when location changes
+    window.scrollTo(0, 0);
+  }, [location]);
+
+  useEffect(() => {
+    const header = document.getElementById("hide-header");
+    let prevScrollpos = window.pageYOffset;
+
+    const handleScroll = () => {
+      const currentScrollPos = window.pageYOffset;
       if (prevScrollpos > currentScrollPos) {
-        document.getElementById("hide-header").style.top = "0";
+        header.style.top = "0";
       } else {
-        document.getElementById("hide-header").style.top =
-          "-140px"; /* adjust this value to the height of your header */
+        header.style.top = "-140px"; // Adjust as needed
       }
       prevScrollpos = currentScrollPos;
     };
-  }, [handleScroll]);
+
+    window.addEventListener("scroll", handleScroll);
+
+    return () => {
+      window.removeEventListener("scroll", handleScroll);
+    };
+  }, []);
 
 
   return (

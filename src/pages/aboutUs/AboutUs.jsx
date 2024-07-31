@@ -16,7 +16,7 @@ import ContactForm from "../../components/form/Form";
 const AboutUs = () => {
   return (
     <>
-    <PageTitle pageTitle={"Ahmedabad - Solar Panel Manufacturing Company | Raaj Solar"} />
+    <PageTitle pageTitle={"About Raaj Solar | Top Solar Panel Manufacturer in Ahmedabad | India"} />
       {/* <AboutUsBanner /> */}
       <InnerPageBanner heading={"About us"} image={bannerImage} />
       <AboutExperience />

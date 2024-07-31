@@ -14,7 +14,7 @@ import TextWithIcon from "../../components/textWithIcon/TextWithIcon";
 const Home = () => {
   return (
     <>
-    <PageTitle pageTitle={"Ahmedabad - Solar Panel Manufacturing Company | Raaj Solar"} />
+    <PageTitle pageTitle={"Raaj Solar | Top Solar Panel Company In India"} />
       <HeroBanner />
       <Text
         text={"The Reliable Solar PV Module Manufacturing Company in India"}
