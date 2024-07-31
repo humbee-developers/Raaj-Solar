@@ -63,7 +63,7 @@ const Footer = () => {
               </div>
             </div>
             <div className="col3">
-              <h2>Contact</h2>
+              <h2>Factory Address</h2>
 
               <div className="address">
                 Survey No. 69/2, Village : Chandarda, Opp. Madhu Textile,

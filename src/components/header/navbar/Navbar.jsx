@@ -31,7 +31,7 @@ const Navbar = ({ handleMenu, open }) => {
             <Link to="/raaj-solar/products">Products</Link>
           </li>
           <li onClick={handleMenu}>
-            <Link to="/raaj-solar/blog">Blog</Link>
+            <Link to="/raaj-solar/blog">Blogs</Link>
           </li>
           <li onClick={handleMenu}>
             <Link to="/raaj-solar/career">Career</Link>
