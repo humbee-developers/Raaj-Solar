@@ -1622,61 +1622,40 @@ const singleBlogData = [
     date: "July 5, 2024",
     intro: "Introduction",
     introP1:
-      "Solar energy is not just a trend; it's the future of sustainable power. One company at the forefront of this revolution in India is Raaj Solar. Renowned for its innovation and commitment to quality, Raaj Solar stands tall as a top solar panel manufacturer. In this article, we’ll explore what makes Raaj Solar a leader in the industry and how their panels are changing the landscape of renewable energy in India.",
-    blueSecondHeadingNew1: "Understanding Solar Panel Warranties",
-    blueSecondHeadingNewContent2: "Solar panel warranties are agreements between the manufacturer and the buyer that guarantee certain aspects of the product's performance and durability. These warranties are essential because they provide financial protection and peace of mind to the consumer.",
+      "Imagine a world where every home and business can harness the sun's power. Raaj Solar is making this vision a reality by producing high-quality solar panels that cater to a wide range of needs. Let's dive into how Raaj Solar is leading the way in the solar panel industry.",
+    blueSecondHeadingNew1: "The Rise of Solar Energy in India",
+    blueSecondHeadingNewContent2: "India has seen a significant rise in the adoption of solar energy over the past decade. With abundant sunlight and a push towards sustainable energy sources, the country has become a hotspot for solar power initiatives. Raaj Solar is at the heart of this movement, driving innovation and accessibility.",
     blueSecondHeadingNewContent1:
-      "Types of Solar Panel Warranties",
-      blueSecondHeadingNewContent4: "Product Warranty",
+      "About Raaj Solar",
       blueSecondHeadingNewContent3:
-      "The product warranty, also known as the equipment warranty, covers defects in materials and workmanship. This type of warranty typically lasts between 10 to 25 years, depending on the manufacturer. It ensures that the physical components of the solar panel will function properly and are free from manufacturing defects.",
+      "Raaj Solar is not just another company in the solar industry; it's a pioneer. Established with a vision to provide sustainable and affordable energy solutions, Raaj Solar has quickly grown to become a top solar panel manufacturing company in India. Their commitment to quality and innovation sets them apart in a competitive market.",
       blueElevenHeadingContent1:
-      "Performance Warranty",
+      "Innovations in Solar Panel Technology",
     blueElevenHeadingContent2:
-      "The performance warranty guarantees that the solar panels will maintain a certain level of energy production over time. Most manufacturers offer a performance warranty that ensures the panels will operate at 80-90% of their original capacity after 25 years. This warranty protects against significant drops in energy output due to factors like degradation.",
-    blueElevenHeading: "Key Components of Solar Panel Warranties",
-      blueElevenHeadingContent3Heading:
-      "Solar panel warranties generally cover:",
+      "Raaj Solar is synonymous with innovation. Their research and development team constantly works on improving panel efficiency and durability. By integrating the latest technologies, such as PERC (Passivated Emitter and Rear Cell) and bifacial panels, Raaj Solar ensures their products are ahead of the curve.",
+    blueElevenHeading: "Manufacturing Process at Raaj Solar",
       blueElevenHeadingContent3:
-      "Material Defects: Issues related to the materials used in manufacturing the panels.",
-    blueElevenHeadingContent4Heading: "Workmanship Issues: Problems arising from the manufacturing process.",
-    blueElevenHeadingContent4:
-      "Performance Degradation: A decline in energy output over time, ensuring the panels still produce a certain percentage of their rated capacity.",
+      "The manufacturing process at Raaj Solar is a blend of cutting-edge technology and meticulous craftsmanship. Each panel undergoes rigorous testing to ensure it meets the highest standards. The company’s state-of-the-art facilities are designed to produce panels that can withstand the harshest environmental conditions.",
     blueElevenHeadingContent5:
-      "Reading the Fine Print",
+      "Why Choose Raaj Solar Panels?",
       blueElevenHeadingContent7Heading:
-      "It's essential to understand the exclusions and limitations of your solar panel warranty. Common exclusions may include damage caused by environmental factors, improper installation, or lack of maintenance. Additionally, familiarize yourself with the claim process, which usually involves providing documentation and proof of purchase.",
-    blueElevenHeadingContent7:
-      "Why Solar Panel Warranties Matter",
-      blueElevenHeadingContent7_1: "Solar panel warranties are vital for several reasons:",
-      blueElevenHeadingContent7_2: "Financial Protection: They cover the cost of repairs or replacements, saving you from unexpected expenses.",
-      blueElevenHeadingContent7_3: "Quality Assurance: A robust warranty indicates that the manufacturer stands behind their product, reflecting its quality and durability.",
-      blueSecondHeading: "Comparing Warranties Among Manufacturers",
-      blueSecondHeadingContent1: "When choosing solar panels, compare warranties from different manufacturers. Look for warranties that offer comprehensive coverage and longer durations. For instance, some leading manufacturers provide 25-year product and performance warranties, ensuring long-term reliability.",
-      blueSecondHeadingContent2: "How to Make a Warranty Claim",
-      blueSecondHeadingContent3: "To make a warranty claim, follow these steps:",
-      blueSecondHeadingContent4: "1. Contact the Manufacturer: Reach out to the customer service department.",
-      blueNinethHeading: "2. Provide Documentation: Submit proof of purchase and any necessary documents.",
-      blueNinethHeadingContent1: "3. Describe the Issue: Clearly explain the problem with your solar panels.",
-      blueNinethHeadingContent3: "4. Follow Up: Keep in touch with the manufacturer to track the progress of your claim.",
-      blueNinethHeadingContent2_1: "Common Issues Covered by Warranties",
-      blueNinethHeadingContent2_2: "Solar panel warranties typically cover:",
-      blueNinethHeadingContent2_3: "Hot Spots: Overheating areas that can damage the panel.",
-      blueNinethHeadingContent2_4: "Micro-cracks: Tiny fractures that affect performance.",
-      TwelthContent1: "PID (Potential Induced Degradation): A phenomenon that reduces panel efficiency over time.",
-  TwelthHeading1_1: "Limitations of Solar Panel Warranties",
-  TwelthContent1_1: "Warranties usually do not cover:",
+      "Choosing Raaj Solar Panels means opting for reliability and efficiency. Their panels are known for high energy output and longevity. Here are some reasons why Raaj Solar is the preferred choice:",
+      blueNinethHeadingContent2_3: "Quality Assurance: Every panel is tested to guarantee top-notch quality.",
+      blueNinethHeadingContent2_4: "Affordability: Competitive pricing without compromising on performance.",
+      TwelthContent1: "Customer Support: Dedicated support team to assist with all queries and concerns.",
+  TwelthHeading1_1: "Sustainability and Environmental Impact",
+  TwelthContent1_1: "Raaj Solar is deeply committed to sustainability. By providing clean energy solutions, they help reduce carbon footprints and promote a greener planet. The company’s eco-friendly practices extend beyond their products to their manufacturing processes, ensuring minimal environmental impact.",
   TwelthHeading1_2: "Environmental Damage: Issues caused by weather, animals, or other environmental factors.",
   TwelthContent1_2: "Improper Installation: Problems arising from incorrect installation methods.",
-  TwelthHeading1_3: "Extending Your Warranty",
-  TwelthContent1_3: "Some manufacturers offer extended warranty options. These extensions provide additional coverage beyond the standard warranty period. Consider the costs and benefits of extending your warranty to ensure it meets your needs.", 
-  TwelthHeading1_4: "Maintaining Your Solar Panels",
-  TwelthContent1_4: "Proper maintenance can extend the lifespan of your solar panels. Follow these tips:",
-  TwelthHeading1_5: "Regular Cleaning: Keep panels free of debris and dirt.",
-  TwelthContent1_5: "Inspections: Schedule periodic professional inspections.",
+  TwelthHeading1_3: "Customer Testimonials",
+  TwelthContent1_4: "Don’t just take our word for it; hear from those who have experienced the Raaj Solar difference:",
+  TwelthHeading1_5: "Anil Kumar : Switching to Raaj Solar has significantly reduced our electricity bills and contributed to a greener environment.",
+  TwelthContent1_5: "Sunita Mehta: The customer service is exceptional, and the installation was seamless. Highly recommend Raaj Solar panels.",
   TwelthHeading1_6: "Monitor Performance: Use monitoring systems to track energy output and identify issues early.",
-  TwelthContent1_6: "What to Do If Your Warranty Claim is Denied",
-  TwelthHeading1_7: "If your warranty claim is denied:",
+  TwelthContent1_6: "Raaj Solar’s Contribution to Rural Electrification",
+  TwelthHeading1_7: "One of the standout achievements of Raaj Solar is its contribution to rural electrification. By providing affordable solar solutions to remote areas, they are transforming lives. Access to electricity has improved education, healthcare, and overall quality of life in many villages.",
+  TwelthHeading1_10:"Future Prospects and Expansion Plans",
+  TwelthContent1_10:"Raaj Solar is not resting on its laurels. The company has ambitious plans for the future, including expanding its product line and entering new markets. With a focus on continuous improvement, Raaj Solar aims to be a global leader in solar energy solutions.",
   TwelthContent1_7: "Review the Denial: Understand why the claim was rejected.",
   TwelthHeading1_8: "Seek Alternative Solutions: Consider professional repair services.",
   TwelthContent1_8: "Legal Recourse: In some cases, legal action may be necessary to resolve disputes.",
@@ -1685,7 +1664,7 @@ const singleBlogData = [
   // 
     ConclusionTitle: "Conclusion :",
     Conclusioncontent:
-      "Understanding solar panel warranties is crucial for protecting your investment and ensuring the long-term performance of your system. By knowing what to look for and how to make the most of your warranty, you can enjoy the benefits of solar energy with confidence.",
+      "Raaj Solar is not just a manufacturer; it’s a catalyst for change in the renewable energy sector. By providing top-quality solar panels, they are paving the way for a sustainable future. Whether you’re looking to reduce your carbon footprint, save on electricity bills, or support rural electrification, Raaj Solar is the name you can trust.",
   },
   //Blog 16
   {
@@ -1698,27 +1677,20 @@ const singleBlogData = [
     intro: "Introduction",
     introP1:
       "In an effort to promote sustainable energy and reduce the carbon footprint, the Indian government has launched the PM Surya Ghar Yojana. This initiative aims to make solar energy more accessible to households across the country. Raaj Solar, a leading provider of solar solutions, is at the forefront of this movement, offering high-quality solar panels and systems designed to maximize energy efficiency. This blog post will delve into the specifics of the PM Surya Ghar Yojana, the benefits of installing Raaj Solar Panels, and how you can take advantage of this scheme to make your home more eco-friendly and energy-efficient.",
-    blueSecondHeadingNew1: "Understanding Solar Panel Warranties",
-    blueSecondHeadingNewContent2: "Solar panel warranties are agreements between the manufacturer and the buyer that guarantee certain aspects of the product's performance and durability. These warranties are essential because they provide financial protection and peace of mind to the consumer.",
-    blueSecondHeadingNewContent1:
-      "Types of Solar Panel Warranties",
-      blueSecondHeadingNewContent4: "Product Warranty",
-      blueSecondHeadingNewContent3:
-      "The product warranty, also known as the equipment warranty, covers defects in materials and workmanship. This type of warranty typically lasts between 10 to 25 years, depending on the manufacturer. It ensures that the physical components of the solar panel will function properly and are free from manufacturing defects.",
-      blueElevenHeadingContent1:
-      "Performance Warranty",
+    blueSecondHeadingNew1: "Understanding PM Surya Ghar Yojana",
+    blueSecondHeadingNewContent2: "The PM Surya Ghar Yojana is a government-backed program aimed at encouraging the use of solar energy in residential properties. Launched as part of the larger initiative to boost renewable energy sources in India, this scheme provides financial incentives and subsidies to households that install solar panels. The primary goal is to reduce dependency on non-renewable energy sources and to promote a greener, cleaner environment.",
+    blueSecondHeadingNewContent3:
+      "Under this scheme, homeowners can receive substantial subsidies that significantly reduce the cost of purchasing and installing solar panels. This financial support makes it more feasible for average households to transition to solar energy. By making solar energy more affordable, the government aims to increase the adoption rate of solar technology and decrease the overall carbon footprint of the nation.",
     blueElevenHeadingContent2:
-      "The performance warranty guarantees that the solar panels will maintain a certain level of energy production over time. Most manufacturers offer a performance warranty that ensures the panels will operate at 80-90% of their original capacity after 25 years. This warranty protects against significant drops in energy output due to factors like degradation.",
-    blueElevenHeading: "Key Components of Solar Panel Warranties",
+      "The PM Surya Ghar Yojana not only benefits the environment but also provides long-term financial savings for homeowners. By generating your own electricity, you can reduce your monthly utility bills and even earn credits for excess energy produced. This initiative is a win-win for both the environment and the economy, fostering sustainable growth and energy independence.",
+    blueElevenHeading: "Subsidy for residential households",
       blueElevenHeadingContent3Heading:
-      "Solar panel warranties generally cover:",
+      "Rs. 30,000/- per kW up to 2 kW",
       blueElevenHeadingContent3:
-      "Material Defects: Issues related to the materials used in manufacturing the panels.",
-    blueElevenHeadingContent4Heading: "Workmanship Issues: Problems arising from the manufacturing process.",
-    blueElevenHeadingContent4:
-      "Performance Degradation: A decline in energy output over time, ensuring the panels still produce a certain percentage of their rated capacity.",
+      "Rs. 18,000/- per kW for additional capacity up to 3 kW",
+    blueElevenHeadingContent4Heading: "Total Subsidy for systems larger than 3 kW capped at Rs 78,000",
     blueElevenHeadingContent5:
-      "Reading the Fine Print",
+      "Suitable Rooftop Solar Plant Capacity for households",
       blueElevenHeadingContent7Heading:
       "It's essential to understand the exclusions and limitations of your solar panel warranty. Common exclusions may include damage caused by environmental factors, improper installation, or lack of maintenance. Additionally, familiarize yourself with the claim process, which usually involves providing documentation and proof of purchase.",
     blueElevenHeadingContent7:
