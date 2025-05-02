@@ -1607,7 +1607,7 @@ const singleBlogData = [
   TwelthContent1_8: "Legal Recourse: In some cases, legal action may be necessary to resolve disputes.",
   TwelthHeading1_9: "Community Involvement",
   TwelthContent1_9: "Community involvement is crucial for the success of solar projects. Raaj Solar Panels engages with local communities to raise awareness about the benefits of solar energy. They provide training and support to ensure that communities can actively participate in and benefit from solar projects.",
-  // 
+  //    
     ConclusionTitle: "Conclusion :",
     Conclusioncontent:
       "Solar farms are instrumental in reducing India's carbon footprint and promoting sustainable development. Raaj Solar Panels, as a top solar panels manufacturer in India, is a key player in this green transition. Their innovative and sustainable products are paving the way for a cleaner, greener future. By supporting solar energy, India can achieve energy independence, economic growth, and environmental sustainability.",
