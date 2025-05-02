@@ -1593,7 +1593,7 @@ const singleBlogData = [
   TwelthContent1_1: "Warranties usually do not cover:",
   TwelthHeading1_2: "Environmental Damage: Issues caused by weather, animals, or other environmental factors.",
   TwelthContent1_2: "Improper Installation: Problems arising from incorrect installation methods.",
-  TwelthHeading1_3: "Extending Your Warranty",
+  TwelthHeading1_3: "Extending Your Warranty",  
   TwelthContent1_3: "Some manufacturers offer extended warranty options. These extensions provide additional coverage beyond the standard warranty period. Consider the costs and benefits of extending your warranty to ensure it meets your needs.", 
   TwelthHeading1_4: "Maintaining Your Solar Panels",
   TwelthContent1_4: "Proper maintenance can extend the lifespan of your solar panels. Follow these tips:",
