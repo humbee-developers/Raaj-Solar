@@ -130,6 +130,35 @@ const blogCardsData = [
     content:
       "Are you looking to get the most out of your solar panel investment? As a property owner with solar panels, you've already taken a significant step towards energy independence and sustainability. However, to truly maximize the benefits of your solar energy system, it's crucial to optimize its efficiency. ",
     buttonText: "Read More",
+  },
+  //Blog 14
+  {
+    name: "Solar-Farms-Help-In-Reducing-Carbon-Footprints-Across-India",
+    image: blogimg9,
+    heading: "Solar Farms Help In Reducing Carbon Footprints Across India",
+    date: "January 22, 2024",
+    content:
+      "India is making significant strides in renewable energy, particularly with solar power. Solar farms are a key part of this transformation, offering sustainable energy solutions and reducing the nation's carbon footprint. Raaj Solar Panels, a top solar panels manufacturer in India, plays a pivotal role in this green revolution.",
+    buttonText: "Read More",
+  },
+  //Blog 15
+  {
+    name: "RAAJ-Solar-Leading-the-Way-as-a-Top-Solar-Panel-Manufacturer",
+    image: blogimg1,
+    heading: "RAAJ Solar: Leading the Way as a Top Solar Panel Manufacturer",
+    date: "July 5, 2024",
+    content:
+      "Solar energy is not just a trend; it's the future of sustainable power. One company at the forefront of this revolution in India is Raaj Solar. Renowned for its innovation and commitment to quality, Raaj Solar stands tall as a top solar panel manufacturer. In this article, we’ll explore what makes Raaj Solar a leader in the industry and how their panels are changing the landscape of renewable energy in India.",
+    buttonText: "Read More",
+  },
+  // Blog 16 
+  {
+    name: "A-Guide-to-PM-Surya-Ghar-Yojana-by-RAAJ-Solar",
+    image: blogimg7,
+    heading: "A Guide to PM Surya Ghar Yojana by RAAJ Solar",
+    date: "March 22, 2024",
+    content:"In an effort to promote sustainable energy and reduce the carbon footprint, the Indian government has launched the PM Surya Ghar Yojana. This initiative aims to make solar energy more accessible to households across the country. Raaj Solar, a leading provider of solar solutions, is at the forefront of this movement, offering high-quality solar panels and systems designed to maximize energy efficiency. This blog post will delve into the specifics of the PM Surya Ghar Yojana, the benefits of installing Raaj Solar Panels, and how you can take advantage of this scheme to make your home more eco-friendly and energy-efficient.",
+    buttonText: "Read More",
   }
 
 ];
