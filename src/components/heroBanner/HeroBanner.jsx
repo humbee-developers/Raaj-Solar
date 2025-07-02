@@ -4,7 +4,7 @@ import { A11y, Navigation, Pagination,Autoplay } from "swiper/modules";
 import "swiper/css/navigation";
 import "swiper/css/pagination";
 import "swiper/css/bundle";
-import video from "../../images/banner_video.mp4";
+import videoBanner from "../../assets/banner_video.mp4";
 import image from "../../images/heroImage.png";
 import { SliderBtn } from "./SliderBtn";
 
@@ -36,7 +36,7 @@ const HeroBanner = () => {
             <div className="banner_slider_inner">
               {/* <img src={rectimg} alt="none" className="rectimg"></img> */}
               <video
-                src={video}
+                src={videoBanner}
                 autoPlay
                 muted
                 loop
